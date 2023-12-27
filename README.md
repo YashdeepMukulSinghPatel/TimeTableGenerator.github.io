@@ -24,7 +24,7 @@ They all are stored in their specific Arrays.
 But you can change the data to use that program for your needs.
 
 ---
-## flow 👉𝗙𝗼𝗹𝗹𝗼𝘄 𝗺𝗲
+## flow 👉
 When the program starts to execute, it asks how many Rooms are available and their capacity.
 And asks the capacity of the Classes.
 
