@@ -46,3 +46,4 @@ And asks the capacity of the Classes.
 
 ## screenshots 🫵
 ---
+![TimeGenerator](https://github.com/YashdeepMukulSinghPatel/TimeTableGenerator.github.io/assets/126327582/6c8b468f-dccd-46b6-87c0-9ded146b06a4)
